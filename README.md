@@ -1,129 +1,241 @@
-# Hello-Microverse-Project
-First practice 
-logo
-Microverse README Template
-📗 Table of Contents
-📖 About the Project
-🛠 Built With
-Tech Stack
-Key Features
-🚀 Live Demo
-💻 Getting Started
-Setup
-Prerequisites
-Install
-Usage
-Run tests
-Deployment
-👥 Authors
-🔭 Future Features
-🤝 Contributing
-⭐️ Show your support
-🙏 Acknowledgements
-❓ FAQ
-📝 License
-📖 HELLO MICROVERSE PROJECT
-Describe your project in 1 or 2 sentences.
 
-HELLO MICROVERSE PROJECT is the first project I work on respecting the rule of a professional repo
-
-🛠 Built With
+<a name="readme-top"></a>
 
 
-Client : Html & CSS
 
-Key Features:
-    1 This application display "Hello Microvese"
-(back to top)
+<div align="center">
 
-🚀 Live Demo
-https://github.com/Grandi0z/Hello-Microverse-Project/tree/3efd29b3a68c4459e9a77708191b49c72aa76c78
-(back to top)
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
 
-💻 Getting Started
-This project will be useful if you want to work as a professional
+  <h3><b># Hello-Microverse-Project</b></h3>
 
-To get a local copy up and running, Visit our website
+</div>
 
-Prerequisites
+
+
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ](#faq)
+- [📝 License](#license)
+
+
+
+# 📖 [HELLO MICROVERSE PROJECT] <a name="about-project"></a>
+
+
+**[HELLO MICROVERSE PROJECT]** is the first project I work on respecting the rule of a professional repo
+
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+> Describe the tech stack and include only the relevant sections that apply to your project.
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://w3.org/">HTML & CSS</a></li>
+  </ul>
+</details>
+
+
+
+
+
+### Key Features <a name="key-features"></a>
+
+> Describe between 1-3 key features of the application.
+
+- **[1 This application displays "Hello Microvese"]**
+- **[2 This application has a title]**
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> Add a link to your deployed project.
+
+- [Live Demo Link](https://github.com/Grandi0z/Hello-Microverse-Project/tree/3efd29b3a68c4459e9a77708191b49c72aa76c78)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+> Describe how a new developer could make use of your project.
+
+This project will be useful if you want to work as a professional.
+
+### Prerequisites
+
 In order to run this project you need to have a 64bit Operating System
 
-Setup
-Clone this repository to your desired folder: https://github.com/Grandi0z/Hello-Microverse-Project.git
 
-Install
-Install this project with ??
 
-Usage
-To run the project, execute the following command:
+```
 1 Open the folder
 2 Double clik on the file Helle.exe
+```
 
-Run tests
-To run tests, run the following command:
+
+### Setup
+
+Clone this repository to your desired folder: 
+
+
+
+```sh
+  cd my-folder
+  git clone https://github.com/Grandi0z/Hello-Microverse-Project.git
+```
+
+
+### Install
+
+Install this project with:
+
+
+
+```sh
+  1 Open the folder
+2 Double clik on the file Hello.exe
+```
+
+
+### Usage
+
+To run the project, execute the following command:
+
+
+
+```
 1 Open the folder
 2 Double clik on the file Test.exe
+```
 
-Deployment
+
+### Run tests
+
+To run tests, run the following command:
+
+
+
+```
+1 Open the folder
+2 Double clik on the file Test.exe
+```
+
+
+### Deployment
+
 You can deploy this project using:
 
-(back to top)
 
-👥 Authors
-Mention all of the collaborators of this project.
 
-👤 Joseph Lwanzo Kausi
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-GitHub: @Grandi0z
-Twitter: @wa_inje
-LinkedIn: Joseph L Kausi
 
-(back to top)
 
-🔭 Future Features
-Describe 1 - 3 features you will add to the project.
+## 👥 Authors <a name="authors">Joseph Lwanzo Kausi</a>
 
-[1] a beautifull index.html file
-[2] a style sheet to make everything look beautifull
+> Mention all of the collaborators of this project.
 
-(back to top)
+👤 **Author1**
 
-🤝 Contributing
+- GitHub: [@Grandi0z](https://github.com/Grandi0z)
+- Twitter: [@wa_inje](https://twitter.com/wa_inje)
+- LinkedIn: [Joeph L Kausi](https://linkedin.com/in/Joeph_l_Kausi)
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+
+- [1] **[a beautifull index.html file]**
+- [2] **[a style sheet to make everything look beautifull]**
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+## 🤝 Contributing <a name="contributing"></a>
+
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the issues page.
+Feel free to check the [issues page](https://github.com/Grandi0z/Hello-Microverse-Project/issues).
 
-(back to top)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-⭐️ Show your support
-Write a message to encourage readers to support your project
 
-If you like this project...
 
-(back to top)
+## ⭐️ Show your support <a name="support"></a>
 
-🙏 Acknowledgments
-Give credit to everyone who inspired your codebase.
+> Write a message to encourage readers to support your project
 
-I would like to thank Microverse team for every efforts they did
+If you like this project please contact the authors <a href = "mailto: josephlkausi@gmail.com">here</a>
 
-(back to top)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-❓ FAQ
-Add at least 2 questions new developers would ask when they decide to use your project.
 
-[Question_1]
 
-[Answer_1]
-[Question_2]
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-[Answer_2]
-(back to top)
+> Give credit to everyone who inspired your codebase.
 
-📝 License
-This project is MIT licensed.
+I would like to thank Microverse team for every efforts they did specially Mr. Emmanuel Orji-Ihuoma for review
 
-NOTE: we recommend using the MIT license - you can set it up quickly by using templates available on GitHub. You can also use any other license if you wish.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-(back to top)
 
+
+## ❓ FAQ <a name="faq"></a>
+
+> Add at least 2 questions new developers would ask when they decide to use your project.
+
+- **[Question_1]**
+
+  - [Answer_1]
+
+- **[Question_2]**
+
+  - [Answer_2]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
